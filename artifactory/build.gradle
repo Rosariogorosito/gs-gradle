@@ -13,6 +13,7 @@ repositories {
 
 // tag::jar[]
 jar {
+    baseName = 'gs-gradle'
     version =  '7.6.4'
 }
 
